@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "今夜はトゥナイト",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-15T11:53:15.911208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Konya wa Tonight (今夜はトゥナイト)",
+      "artist": "Golden Bomber (ゴールデンボンバー)",
+      "has_synced": true,
+      "path": "select/01_Konya_wa_Tonight_(今夜はトゥナイト)_Golden_Bomber_(ゴールデンボンバー).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜はトゥナイト",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_今夜はトゥナイト_ゴールデンボンバー.txt"
+    }
+  ]
+}
